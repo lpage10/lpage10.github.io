@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  pages:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-10-22T08:32:04.827179226+01:00"
+    dependencies:
+    - name: pages-api
+      repository: https://lpage10.github.io/
+      version: 1.x.x
+    - name: mysql
+      repository: https://lpage10.github.io/
+      version: 1.x.x
+    description: A Helm chart for Pages Application
+    digest: d026f6c69ef6f1ee24c025112651d2759828d4991c023bb76dadc9b81289911d
+    name: pages
+    type: application
+    urls:
+    - pages-1.0.0.tgz
+    version: 1.0.0
+generated: "2021-10-22T08:32:04.824355916+01:00"
